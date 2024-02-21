@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A passionate Frontend Developer and working on being a Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS,JS**
+- 💬 Ask me about **HTML, CSS, JS , REACT**
 
 - 📫 How to reach me **ghoshjoy347@gmail.com**
 
